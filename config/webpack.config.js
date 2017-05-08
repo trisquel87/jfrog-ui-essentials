@@ -1,5 +1,5 @@
 var webpack = require('webpack');
-var CONFIG = require('./jfrog-ui-essentials.config');
+var CONFIG = require('./config/jfrog-ui-essentials.config');
 
 module.exports = {
 
